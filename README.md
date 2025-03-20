@@ -18,6 +18,6 @@ pip install -r requirements.txt
 
 
 Usage
-1️⃣ Load and preprocess the dataset
-2️⃣ Train the BiLSTM model
-3️⃣ Detect anomalies & visualize results
+* 1️⃣ Load and preprocess the dataset
+* 2️⃣ Train the BiLSTM model
+* 3️⃣ Detect anomalies & visualize results
