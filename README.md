@@ -6,10 +6,10 @@ Features
 ✅ Real-time monitoring and visualization
 ✅ Scalable and efficient deep learning model
 
-Technologies Used
--> Python (Pandas, NumPy, Matplotlib)
--> TensorFlow/Keras (BiLSTM Model)
--> Scikit-learn (Data preprocessing & evaluation)
+*Technologies Used*
+*Python (Pandas, NumPy, Matplotlib)
+*Tensorflow/Keras (BiLSTM Model)
+* Scikit-learn (Data preprocessing & evaluation)
 
 *Installation*
 git clone https://github.com/yourusername/IoT-Anomaly-Detection-BiLSTM.git  
